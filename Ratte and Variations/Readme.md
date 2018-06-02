@@ -18,7 +18,8 @@ The Side Panel is slideable, although I nearly only squonk, you can choose betwe
 - Squonk
 - Top-Feed (As with the DripEZ -> The concept works way better than you might think)
 
-If you built one of these mods and they make you as happy, please consider donating. I'm spending a lot of time and money on 3D-Printers and Mod Parts, also I'll donate 50% to charite.
+## Donations
+If you built one of these mods and they make you as happy, please consider donating. I'm spending a lot of time and money on 3D-Printers and Mod Parts, also I'll donate 50% to charite. 
 https://paypal.me/pools/c/84VLxMgHWM
 
 ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/images/Leviathan%20Squonk.png)
