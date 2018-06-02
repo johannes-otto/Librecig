@@ -16,3 +16,9 @@ enough maturity to be released.That doesn't mean that this is the end. I'm const
 The plan is to share everything.
 I hope that other modders are willing to contribute, so that we could build a free repository of for "Maker-Vapers".
 
+## Available Models
+
+- [Ratte Platform](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/Readme.md)
+  - [Ratte](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/Ratte/Readme.md)
+  - [Leviathan](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/Wisent/Readme.md)
+  - [Wisent](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/Wisent/Readme.md)
