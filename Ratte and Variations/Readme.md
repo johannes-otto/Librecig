@@ -2,9 +2,9 @@
 The goal with this series of Mods is to build a versatile, easy to assemble mod. It's supposed to be easily printable, even on cheap printers.
 
 Currently this platform offers the following battery configurations:
-- 2x 18650 -> Die Ratte
-- 4x 18650 -> Der Leviathan
-- 6x 18650 ->  Der Wisent
+- 2x 18650 -> [Die Ratte](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/Ratte/Readme.md)
+- 4x 18650 -> [Der Leviathan](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/Leviatan/Readme.md)
+- 6x 18650 ->  [Der Wisent](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/Wisent/Readme.md)
 
 The Front Panel is variable, too. You can choose between the following electronics:
 - BigAl's ANT 6s
