@@ -7,8 +7,17 @@ If the part fits too tight, you can use a knife to scrape off acess material.
 If you want you can put in the screws to check if everything looks as expected.
 
 ## Manufacturing the contact plates
+First we need 2 terminals where the cables coming from the board and the 510 are
+beeing soldered to.
+Cut a small piece of brass and drill a 3.2mm hole in it. The terminal doesnt need
+to be bigger than the M3 nut. On one side, leave some space for the cable as
+seen in the picture.
 [small plate image]()
 
+Next thing we need are bridges. For a dual 18650 you need one, for 4x18650 you
+need 3 and for 6x18650 you need 5.
+Drill 2 3.2mm holes into a brass plate. They must be 19mm apart. Then cut out the
+plate. It doesn't need to be wider than the M3 nut.
 [bridge plate image]()
 
 ## Electronics
@@ -34,5 +43,3 @@ Put in some insulation between the switch and the 510
 Tighten the other screws.
 
 ## Final check
-
-
