@@ -18,6 +18,14 @@ The Side Panel is slideable, although I nearly only squonk, you can choose betwe
 - Squonk
 - Top-Feed (As with the DripEZ -> The concept works way better than you might think)
 
+
+## Want to build it?
+[Print instructions]()
+[Build instructions]()
+[Usage instructions]()
+
+[Back to main]()
+
 ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/Leviathan%20Squonk.png)
 ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/Ratte%20Squonk%20iPWM.png)
 ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/Ratte%20Top%20Feed%20Mosfet.png)
