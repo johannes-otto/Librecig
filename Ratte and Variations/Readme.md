@@ -20,13 +20,13 @@ The Side Panel is slideable, although I nearly only squonk, you can choose betwe
 
 
 ## Want to build it?
-[Print instructions]()
+[Print instructions](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/instructions/printing.md)
 
-[Build instructions]()
+[Build instructions](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/instructions/building.md)
 
-[Usage instructions]()
+[Usage instructions](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/instructions/safety.md)
 
-[Back to main]()
+[Back to main](https://github.com/johannes-otto/Librecig/blob/master/README.md)
 
 ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/Leviathan%20Squonk.png)
 ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/Ratte%20Squonk%20iPWM.png)
