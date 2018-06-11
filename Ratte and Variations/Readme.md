@@ -21,7 +21,9 @@ The Side Panel is slideable, although I nearly only squonk, you can choose betwe
 
 ## Want to build it?
 [Print instructions]()
+
 [Build instructions]()
+
 [Usage instructions]()
 
 [Back to main]()
