@@ -4,14 +4,14 @@
 The following Materials are recommended.
 
 1. PETG
-[PETG]
+![](https://www.formfutura.com/web/image/product.template/248/image/300x300?unique=7e0ae0c)
   + Easy to print
   + Mechanical durable
   + Available in many (translucent) Colors
   - Stringing
   
 2. Carbonfill
-[Carbonfill]
+![](https://www.formfutura.com/web/image/product.template/158/image/300x300?unique=7e0ae0c)
   + Rough, matt surface
   + Mechanical Durable
   - Only black
@@ -20,7 +20,7 @@ The following Materials are recommended.
   - Need a hardened / plated nozzle
  
 3. ABS / ASA
-[Image ABS]
+![](https://www.formfutura.com/web/image/product.template/179/image/300x300?unique=b926be4)
   + Mechanical durable
   + High temperature resistance
   + Available in many colors
