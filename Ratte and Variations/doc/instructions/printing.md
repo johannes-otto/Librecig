@@ -35,14 +35,17 @@ The following Materials are recommended.
  ## Supports
  ### Body
  Support the overhangs and the slot for the battery door. You shouldn't put supports into the screw holes, as they are difficult to remove.
+ 
  ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/printing/supports_body.png)
  
  ### Battery Cover
  The fit of the door is pretty tight. So it's recommended to support the overhang here.
+ 
  ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/printing/supports_battery_door.png)
  
  ### Squonk / Top Feed Plate
  Put some supports inside to support the top of the bottle holder. Don't use too many.
+ 
  ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/printing/supports_squonk.png)
  
  
