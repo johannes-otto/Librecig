@@ -24,7 +24,7 @@ The Side Panel is slideable, although I nearly only squonk, you can choose betwe
 
 [Build instructions](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/instructions/building.md)
 
-[Usage instructions](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/instructions/safety.md)
+[Usage instructions](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/instructions/usage.md)
 
 [Back to main](https://github.com/johannes-otto/Librecig/blob/master/README.md)
 
