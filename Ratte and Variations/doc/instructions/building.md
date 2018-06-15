@@ -5,6 +5,13 @@ Before you start any soldering, you should check the printed parts. Many printer
 The bottom door needs to slide firmly into the body. It should't be loose, but it also shouldn't require much force to slide it in. If you use too much force, you might break the body.
 If the part fits too tight, you can use a knife to scrape off acess material.
 If you want you can put in the screws to check if everything looks as expected.
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/checking_printed_parts1.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/checking_printed_parts2.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/checking_printed_parts3.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/checking_printed_parts4.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/checking_printed_parts5.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/checking_printed_parts6.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/checking_printed_parts7.png)
 
 ## Manufacturing the contact plates
 First we need 2 terminals where the cables coming from the board and the 510 are
@@ -12,13 +19,15 @@ beeing soldered to.
 Cut a small piece of brass and drill a 3.2mm hole in it. The terminal doesnt need
 to be bigger than the M3 nut. On one side, leave some space for the cable as
 seen in the picture.
-[small plate image]()
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/attaching%20top%20contact%20terminal.png)
 
 Next thing we need are bridges. For a dual 18650 you need one, for 4x18650 you
 need 3 and for 6x18650 you need 5.
 Drill 2 3.2mm holes into a brass plate. They must be 19mm apart. Then cut out the
 plate. It doesn't need to be wider than the M3 nut.
-[bridge plate image]()
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/top_contact_plate.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/battery_door_with_contact_plates.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/battery_door_with_contact_plates1.png)
 
 ## Electronics
 [Big Al's wire diagrams]()
