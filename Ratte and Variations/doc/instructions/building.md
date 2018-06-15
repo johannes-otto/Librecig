@@ -56,12 +56,14 @@ You need a powerful soldering iron to get enough heat into the brass.
 Use the 510 tightening tool to tighten the 510. Tighten it firmly to avoid
 the 510 becoming loose while screwing/unscrewing the atomizer.
 ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/assembling%20510%20(1).png)
-![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/assembling%20510%20(2).png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/assembling%205103.png)
 
 ## Pre flight check
 Use a pliers or something metallic to bridge the first two batteries.
 You should see the mod turn on. If something strange happens, instantly pull away
 the pliers.
+If everything is working as it should, you can glue in the voltmeter and the pot now. I recommend just using a few drops of superglue. If you use too much, disassembling would be a pain.
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/first_test.png)
 
 ## Optional: Preparing the squonk plate
 Press the cap of the squonk bottle into the hole from the squonk plate. Don't press
@@ -69,6 +71,11 @@ it in too far, since the bottle wouldn't be sealed when not beeing screwed in fa
 enough. Leave the tube a bit longer. Now cut the tube on the bottom in the
 bottle. Leave some 1mm space between the end of the tube and the bottom of The
 bottle to let the liquid flow during the squonk action.
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/preparing_squonk_bottle1.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/preparing_squonk_bottle2.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/preparing_squonk_bottle3.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/preparing_squonk_bottle4.png)
+
 
 ## Final Assembly
 [image tightened top]()
@@ -83,13 +90,30 @@ While screwing in the screws of the front plate, you carefully hold the part in
 Place.
 After you put in a few screws, test if the connection is tight and the flow isn't blocked.
 To do that, you can unscrew the bottle and carefully blow through the tube.
-[image pliers insert]()
 
-[image foam]()
+
 Put in some insulation between the switch and the 510
 Now screw in the rest of the screws. Don't overtighten them. You are dealing with
 plastics.
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/insulator.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/insulator_placement.png)
 
 ## Final check
 Before you push in the battery door, check the function of the board again
 with the pliers test we did earlier.
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/test_again.png)
+
+## Insert Batteries
+When inserting the batteries, know your polarity. If you use the wisent, be sure to have the battery screws loose before inserting or removing the battery door. Otherwise you WILL short 4 batteries at the same time while the door jams!
+Take your time when adjusting the contacts for the first time. You don't need much tension for the batteries to contact, but it's tricky on the wisent or the leviathan to get them all contact at the same time. If you overtighten the screws, you might break the mod.
+
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/insert_batteries.png)
+
+## Done
+Congrats. You're done. Be sure to look at safety and usage instructions.
+- [safety](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/instructions/safety.md)
+- [usage](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/instructions/usage.md)
+
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/done1%20(1).png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/done1%20(2).png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/done1%20(3).png)
