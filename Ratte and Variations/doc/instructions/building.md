@@ -30,17 +30,33 @@ plate. It doesn't need to be wider than the M3 nut.
 ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/battery_door_with_contact_plates1.png)
 
 ## Electronics
-[Big Al's wire diagrams]()
+In this example we use an iPWM board:
+[iPWM Wire Diagram](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/wire%20diagrams/iPWM%20Wiring%20Diagram.jpg)
+
+If you got the another front plate and the components, you may use one of these diagrams:
+- [ANT Wire Diagram](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/wire%20diagrams/ANT%20PWM%20Wring%20Diagram.jpg)
+- [Mosfet Wire Diagram]()
+
+In any case. I use to cut the contacts of the button to save space. I usually leave about a mm. Also I cut the mount holes of the voltmeter. Be sure to have the button screwed in tightly. Bad things happen if the nut becomes loose an starts traveling inside your mod.
+Don't glue in the components yet. I recommend not doing that before you verified that your soldering works.
+
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/soldering1.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/soldering2.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/soldering3.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/soldering4.png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/soldering5.png)
+
 
 ## Connecting the Battery contacs
 Solder the wires from the board and the 510 directly to the pole contacts.
 You need a powerful soldering iron to get enough heat into the brass.
-[image soldering cables to poles]()
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/attaching%20top%20contact%20terminal.png)
 
 ## Screwing in the 510
-[Image 510]()
 Use the 510 tightening tool to tighten the 510. Tighten it firmly to avoid
 the 510 becoming loose while screwing/unscrewing the atomizer.
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/assembling%20510%20(1).png)
+![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/assembling%20510%20(2).png)
 
 ## Pre flight check
 Use a pliers or something metallic to bridge the first two batteries.
