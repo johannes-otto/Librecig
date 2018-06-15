@@ -111,7 +111,6 @@ Take your time when adjusting the contacts for the first time. You don't need mu
 
 ## Done
 Congrats. You're done. Be sure to look at safety and usage instructions.
-- [safety](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/instructions/safety.md)
 - [usage](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/instructions/usage.md)
 
 ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/done1%20(1).png)
