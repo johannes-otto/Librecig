@@ -1,5 +1,9 @@
 # Building Ratte / Wisent / Leviathan
 
+## Chosing the Model
+I highly recommend to build "Die Ratte" first. "Die Ratte" is build many times by me and I'm vaping it for months daily. "Der Leviathan"
+and "Der Wisent" are just interesting side projects and still need some work (although the do vape, but they are not perfect).
+
 ## Checking the printed parts
 Before you start any soldering, you should check the printed parts. Many printers suffer dimensional inaccuracy. Start with measuring. Then start sticking the parts together, check the gaps.
 The bottom door needs to slide firmly into the body. It should't be loose, but it also shouldn't require much force to slide it in. If you use too much force, you might break the body.
