@@ -110,8 +110,8 @@ Take your time when adjusting the contacts for the first time. You don't need mu
 ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/insert_batteries.png)
 
 ## Done
-Congrats. You're done. Be sure to look at safety and usage instructions.
-- [usage](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/instructions/usage.md)
+Congrats. You're done. Be sure to look at the usage instructions.
+[usage](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/instructions/usage.md)
 
 ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/done1%20(1).png)
 ![](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/doc/images/building/wisent/done1%20(2).png)
