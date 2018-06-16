@@ -20,5 +20,5 @@ I hope that other modders are willing to contribute, so that we could build a fr
 
 - [Ratte Platform](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/Readme.md)
   - [Ratte](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/Ratte/Readme.md)
-  - [Leviathan](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/Leviathan/Readme.md)
+  - [Leviathan](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/Leviatan/Readme.md)
   - [Wisent](https://github.com/johannes-otto/Librecig/blob/master/Ratte%20and%20Variations/Wisent/Readme.md)
