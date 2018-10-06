@@ -15,6 +15,7 @@ at some point if I come across a tank that really blows me away.
 - 2x M3 screws with nuts for the bottom contact bridge
 - A piece of brass or copper for the bottom contact bridge
 - Tiny Screws I use [Din 1.5x6](https://minischrauben.com/blech-holzschrauben-linsenkopf--44900.html). You can use others. The holes are 1.5mm x 6mm
+- [Keystone 209](http://www.modmaker.co.uk/Keystone-209-Battery-Contact-Clips-x-4?search=keystone) Clips for the top contacts
 
 ## Tips and Tricks
 - Put a strip of Tesa on the top of the voltmeter. It acts as a screen protector and helps to seal it.
