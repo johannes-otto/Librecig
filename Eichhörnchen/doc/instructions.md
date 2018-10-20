@@ -9,7 +9,7 @@ This document should help you to put together this mod. However, this may just s
 If you are unsure about electronics or building mods, you shouldn't continue.
 I don't provide wiring diagrams. Get them from the manufacturer of your board.
 
-##Again! Lithium-Ion Batterys are little bombs that wait to explode due to improper treatment!!
+## Again! Lithium-Ion Batterys are little bombs that wait to explode due to improper treatment!!
 
 
 ## Parts you need
