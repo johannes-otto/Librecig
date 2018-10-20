@@ -29,23 +29,23 @@ I don't provide wiring diagrams. Get them from the manufacturer of your board.
 ## Build Process
 
 Start by inspecting the printed parts. The parts should fit together nicely and there shouldn't be gaps.
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_091350.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_091408.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_091350.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_091408.jpg)
 
 Put two strips of TESA on the display of your Voltmeter to protect it from liquid damage
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_091934.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_092227.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_091934.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_092227.jpg)
 
 Then glue it into the top part. Make sure it sits really well. You can't correct it later on. Also don't use excessive amounts of glue.
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_092336.jpg)
-[]!!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_092627.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_092336.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_092627.jpg)
 
 Screw the Mitec switch into the front panel. Make sure it sits tight. If the Nut comes loose inside your mod, it might short out. Also cut down the leads of the switch and put some solder on it.
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_092955.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_092958.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_092955.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_092958.jpg)
 
 Glue the pot with the board into the front panel. Make sure it sits correct and flush. 
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_093412.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_093412.jpg)
 
 !!Be sure to let the glue dry completely before continuing. Otherwise the board and the voltmeter might move during assembly!!
 
@@ -54,54 +54,54 @@ Prepare the battery door. In this case the bridge looks really janky and wrong, 
 - Cut the acess metal, so the bridge fits inside the battery door.
 - Put the M3 nuts into the holes and screw in the bridge.
 - Cut or file down the screws so that they don't stick out of the bottom
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_093713.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_093720.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_093753.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_093713.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_093720.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_093753.jpg)
 
 Glue the squonk bottle into the body. There are 2 ways since the lid of both bottles is different
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_094125.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_094222.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_094236.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_094334.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_094838.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_094125.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_094222.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_094236.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_094334.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_094838.jpg)
 
 Solder the switch to your board
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_100836.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_100836.jpg)
 
 Slide the battery contacts onto the contact port. Be sure that the cable will NEVER contact the 510, as it might short.
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_101209.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_101224.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_101209.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_101224.jpg)
 
 Assemble the 510
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_102415.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_102415.jpg)
 
 Put the insulator plate between the top and the top contact port, so that the cables cant touch the vm.
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_102454.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_102454.jpg)
 
 Carefully push in the top into the body.You might need to bend some wires. 
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_102602.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_102602.jpg)
 
 Pull the tube for your sounk bottle through the hole in the side and connect it to the 510.
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_103135.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_103135.jpg)
 
 Carefully push in the front part into the body.It has to fit without any preasure and there shouldn't be any gaps. Otherwise check your wiring.
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_103300.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_103300.jpg)
 
 Put the screws in. While screwing, apply some preasure to make sure the parts fit together tightly. If you see a gap, reverse the screw and screw it in again while applying more preasure. Don't overtighten the screws.
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105034.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105037.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105039.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105041.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105043.jpg)
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105045.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105034.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105037.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105039.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105041.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105043.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105045.jpg)
 
 Cut the tube for the squonk bottle to length and put it into the bottle.
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105238.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105238.jpg)
 
 Put the batteries in carefully and test if everything is wired correctly. I usually put the batteries in and first use some pliers to test if the board is working correctly before firmly attaching the battery door. By doing this I am able to quickly pull back if something goes wrong.
-[]!(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105426.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_105426.jpg)
 
 Your Mod is finished
-[]°(https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_111221.jpg)
+![](https://github.com/johannes-otto/Librecig/blob/master/Eichh%C3%B6rnchen/doc/img/20181020_111221.jpg)
 
 
