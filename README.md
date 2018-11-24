@@ -14,7 +14,7 @@ Also I was annoyed that my favorite mods break after a year or two of constant u
 Since then building and 3D printing mods has become a passion of mine. I did countless iterations and now I think the designs reached
 enough maturity to be released.That doesn't mean that this is the end. I'm constantly improving my designs and from time to time I try something completely new.
 The plan is to share everything.
-I hope that other modders are willing to contribute, so that we could build a free repository of for "Maker-Vapers".
+I hope that other modders are willing to contribute, so that we could build a free repository of mods for "Maker-Vapers".
 
 ## Available Models
 
